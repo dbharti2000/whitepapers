@@ -36,7 +36,7 @@ run the tests on FF, change the browser value to "firefox".
 ### Execution Steps
 
 - Clone the repository or download project as a zip file
-- Download all the required libraries
+- Download all the required libraries (If there is an issue downloading though maven then please add external jars)
 - Run the tests by right click on the TestNG test in IntelliJ or Eclipse
 
 
